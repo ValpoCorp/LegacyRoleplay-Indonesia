@@ -1,5 +1,5 @@
-# LegacyRo![png-removebg-preview](https://user-images.githubusercontent.com/90019085/131947140-10d253ae-43c4-4883-970f-70b70f775eba.png)
-leplay-Indonesia
+![png-removebg-preview](https://user-images.githubusercontent.com/90019085/131947140-10d253ae-43c4-4883-970f-70b70f775eba.png)
+# LegacyRoleplay-Indonesia
 
 First Beta Test 01/09/2021
 v0.1 
