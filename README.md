@@ -2,7 +2,7 @@
 # LegacyRoleplay-Indonesia
 
 First Beta Test 01/09/2021
-#v0.1 
+**v0.1 
 - ESX Legacy 1.3
 - Weight Base System 
 - Diffrent Ammo Per Weapon
@@ -26,7 +26,7 @@ First Beta Test 01/09/2021
 - Crouch System Support Firing Weapon 
 - Handsup System (Remove Weapon & Disable Running When Handsup = True)
 
-#v0.2
+**v0.2
 - Map Drag Strip
 - Map LSC
 - Map Police Departmen
