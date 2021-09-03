@@ -2,7 +2,7 @@
 # LegacyRoleplay-Indonesia
 
 First Beta Test 01/09/2021
-v0.1 
+#v0.1 
 - ESX Legacy 1.3
 - Weight Base System 
 - Diffrent Ammo Per Weapon
@@ -25,3 +25,13 @@ v0.1
 - Custom impound System
 - Crouch System Support Firing Weapon 
 - Handsup System (Remove Weapon & Disable Running When Handsup = True)
+
+#v0.2
+- Map Drag Strip
+- Map LSC
+- Map Police Departmen
+- Map Exclusive Showroom
+- Report System
+- Added 174 Vehicle Mods
+- Added 42 Rims Mods
+
